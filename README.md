@@ -1,11 +1,9 @@
 # PIR Sensor // Passive infrared sensor
-
-# INFO
 Een PIR Sensor is een bewegingsdetectie sensor die reageert op de straling die uitgezonden word door de objecten binnen zijn bereik. Alle objecten boven het absolute nulpunt genereren warmte in de vorm van straling. De PIR sensor reageert op accute verschillen in straling, dus als bijvoorbeeld een persoon zich binnen het bereik van de sensor verplaatst.
 
 # WAARDES
-De PIR sensor is een digitale sensor die binair waardes geeft:
-0:  Geen beweging
+De PIR sensor is een digitale sensor die binair waardes geeft: <br>
+0:  Geen beweging <br>
 1:  Wel beweging
 
 # AANSLUITEN
